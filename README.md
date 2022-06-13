@@ -3,9 +3,6 @@
 An all-in-one solution for `ERC721` collections. Build, test and deploy your smart contract, together with a totally
 integrated DAPP within a simple yet powerful workspace.
 
-## Disclaimer
-This project was created for educational purposes, please refer to the [LICENCE](LICENSE) file for further information.
-
 ## Main features
 - extremely high gas efficiency (users are going to pay lower gas fees compared to traditional collections)
 - whitelist support with customizable list size (using a Merkle Tree for verification)
